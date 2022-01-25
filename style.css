@@ -16,4 +16,8 @@ body {
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
   }
-  
+  .marker {
+    box-sizing: border-box;
+    height: 50px;
+    width: 125px;
+  }
