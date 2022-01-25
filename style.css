@@ -19,6 +19,6 @@ body {
   .marker {
     box-sizing: border-box;
     height: 140px;
-    width: 125px;
-    margin: auto;
+    width: 500px;
+    margin: 0 auto;
   }
