@@ -21,4 +21,19 @@ body {
     height: 140px;
     width: 500px;
     margin: 0 auto;
+    color: purple;
+    font-family: serif;
+    font-size: 23px ;
+  }
+
+.new {
+   color: red; 
+   background-color: black;
+   boder: 2px red;   
+   margin-top: 50px;
+   margin-left: 185px; 
+   height: 50px;
+   width: 100px;
+   font-family: Times;
+   font-size: 35px;
   }
